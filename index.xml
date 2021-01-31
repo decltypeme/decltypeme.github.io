@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Islam Faisal</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Islam Faisal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Aug 2019 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Islam Faisal</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>USENIX Lightning Talk: Fully decentralized auditable framework for privacy-preserving aggregation</title>
+      <link>/talk/usenix-lightning-talk-fully-decentralized-auditable-framework-for-privacy-preserving-aggregation/</link>
+      <pubDate>Wed, 14 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>/talk/usenix-lightning-talk-fully-decentralized-auditable-framework-for-privacy-preserving-aggregation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limited Proxying for Content Filtering Based on X.509 Proxy Certificate Profile</title>
+      <link>/publication/proxying/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/proxying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Networks and Metric Learning for Facial Verification</title>
+      <link>/publication/rips_jmm/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rips_jmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Cryptography Reading Group</title>
+      <link>/qc-reading-group/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/qc-reading-group/</guid>
+      <description>&lt;h2 id=&#34;mailing-list&#34;&gt;Mailing List&lt;/h2&gt;
+&lt;p&gt;We use the mailing list &lt;em&gt;pq2c-rg at cs dot bu dot edu&lt;/em&gt; for announcements of talks and any related opportunities. &lt;a href=&#34;https://cs-mailman.bu.edu/mailman/listinfo/pq2c-rg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Please sign-up here&lt;/a&gt;. You can also add the calendar below to your calendar for schedule of talks.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; If you would like to present, please send an email to &lt;em&gt;islam at bu dot edu&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;spring-2021&#34;&gt;Spring 2021&lt;/h2&gt;
+&lt;p&gt;Schedule will be upcoming soon.&lt;/p&gt;
+&lt;h2 id=&#34;summer-2020&#34;&gt;Summer 2020&lt;/h2&gt;
+&lt;p&gt;In summer 2020, we started a series of themed virtual talks around the quantum PCP conjecture. &lt;a href=&#34;https://cs-people.bu.edu/islam/qpcp-summer-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visit this link for the talks and and resources&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;fall-2019&#34;&gt;Fall 2019&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Timing and Venue&lt;/strong&gt;: Wednesday 2:30 - 3:30 PM at MCS B39 (&lt;a href=&#34;https://www.google.com/maps/place/111&amp;#43;Cummington&amp;#43;Mall,&amp;#43;Boston,&amp;#43;MA&amp;#43;02215&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;111 Cummington Mall, Boston, MA&lt;/a&gt;). Due to constructions, please look for the stairs with the sign &amp;ldquo;access to classroom B39&amp;rdquo;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nov. 6th: Quantum Collision Finding (Speaker: Mark Bun)&lt;/li&gt;
+&lt;li&gt;Nov. 13th: &lt;a href=&#34;https://arxiv.org/pdf/0911.3814.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum And Relativistic Protocols For Secure Multi-Party Computation (Roger Colbeck)&lt;/a&gt; (Speaker: Ari Karchmer)&lt;/li&gt;
+&lt;li&gt;Dec. 11th: &lt;a href=&#34;https://arxiv.org/pdf/1708.02130.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Classical Homomorphic Encryption for Quantum Circuits (Urmila Mahadev)&lt;/a&gt; (Speaker: Islam Faisal)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;calendar&#34;&gt;Calendar&lt;/h2&gt;
+&lt;iframe src=&#34;https://calendar.google.com/calendar/embed?src=bu.edu_sdcpjj2tk2vhfblg2a5e26rfdg%40group.calendar.google.com&amp;ctz=America%2FNew_York&#34; style=&#34;border: 0&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;related-seminars-around-in-crypto-and-tcs&#34;&gt;Related Seminars Around (in Crypto and TCS)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bu.edu/cs/groups/busec/busec-calendar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BUSec calendar&lt;/a&gt; for BUSec seminar and MPC reading group&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bu.edu/cs/algorithms-and-theory-seminar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BU Theory Seminar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bostoncryptoday.wordpress.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Charles River Crypto Day&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://toc.csail.mit.edu/node/428&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT CIS Seminar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://toc.csail.mit.edu/node/424&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT TOC Colloquium Series&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

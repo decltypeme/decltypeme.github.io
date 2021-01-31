@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>privacy | Islam Faisal</title>
+    <link>/tag/privacy/</link>
+      <atom:link href="/tag/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <description>privacy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Aug 2019 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>privacy</title>
+      <link>/tag/privacy/</link>
+    </image>
+    
+    <item>
+      <title>USENIX Lightning Talk: Fully decentralized auditable framework for privacy-preserving aggregation</title>
+      <link>/talk/usenix-lightning-talk-fully-decentralized-auditable-framework-for-privacy-preserving-aggregation/</link>
+      <pubDate>Wed, 14 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>/talk/usenix-lightning-talk-fully-decentralized-auditable-framework-for-privacy-preserving-aggregation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
