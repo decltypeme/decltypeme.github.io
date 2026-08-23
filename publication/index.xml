@@ -5,12 +5,28 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Rounding Almost Commuting Hamiltonians</title>
+      <link>/publication/rounding_almost_commuting_hamiltonians/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/rounding_almost_commuting_hamiltonians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Oracle Arguments in the QROM and Applications to Succinct Verification of Quantum Computation</title>
+      <link>/publication/succinct_args/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/succinct_args/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Limited Proxying for Content Filtering Based on X.509 Proxy Certificate Profile</title>
